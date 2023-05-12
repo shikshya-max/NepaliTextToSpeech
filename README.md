@@ -5,3 +5,6 @@ The given graph of encoder timestep versus decoder timestep is known as the "ali
 ![comparision of gen speech and ground speech](https://github.com/shikshya-max/NepaliTextToSpeech/assets/51810639/fa095e7f-a5f9-40d1-b758-d20d4e078d19)
 
 The given figure is a comparision of ground truth speech waveform and a generated speech waveform, the x-axis represents the same time scale for both waveforms, indicating when the speech was spoken. The y-axis represents the amplitude of the speech waveform at each point in time. Comparing the ground truth and generated speech waveforms, we can see how closely it matches the original speech in terms of timing, intonation, and loudness.
+
+Reference colab file:
+https://colab.research.google.com/drive/1N_B_38MMRk1BUqwI_C829TyGpNmppUqK?usp=sharing&authuser=2#scrollTo=DviNKw7rzkyK
