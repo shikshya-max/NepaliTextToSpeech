@@ -8,3 +8,9 @@ The given figure is a comparision of ground truth speech waveform and a generate
 
 Reference colab file:
 https://colab.research.google.com/drive/1N_B_38MMRk1BUqwI_C829TyGpNmppUqK?usp=sharing&authuser=2#scrollTo=DviNKw7rzkyK
+
+For synthesis:
+https://colab.research.google.com/drive/1vgWDZ1FMEPPWfyHq0W49LCLo3iSlbAqa?authuser=0#scrollTo=80gl82aDmEw3
+
+For Audio Analysis:
+https://colab.research.google.com/drive/1KycXHFdgrx_P0PRatW9Wv_64PmA0jpp5#scrollTo=oyZJKeUc5WS_
